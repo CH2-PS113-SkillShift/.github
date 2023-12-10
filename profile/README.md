@@ -8,7 +8,7 @@ Welcome to the official GitHub repository for the Bangkit Capstone Project at **
 ### 1. [**Fachrur Rozi**](https://github.com/hailDev) (M161BSY0531)
    - **Role:** Machine Learning (ML)
    - **Bio:** Machine Learning Cohort
-   - **Contribution:** 
+   - **Contribution: Collect and preprocess dataset for face matching(recognition), create face matching model** 
 
 ### 2. [**Ramadhania Humaira**](https://github.com/hmrrh) (M315BSX0109)
    - **Role:** Machine Learning (ML)
