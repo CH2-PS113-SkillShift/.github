@@ -41,4 +41,6 @@ Welcome to the official GitHub repository for the Bangkit Capstone Project at **
    - **Contribution:**
 
 
+Note : ```Edit your Contribution```
+
 
