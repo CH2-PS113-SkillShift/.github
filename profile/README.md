@@ -28,7 +28,7 @@ Welcome to the official GitHub repository for the Bangkit Capstone Project at **
 ### 5. [**Ziyad Jahizh Kartiwa**](https://github.com/ZiyadZK) (C161BSY3517)
    - **Role:** Cloud Computing (CC)
    - **Bio:**  Cloud Computing Cohort
-   - **Contribution:** Handle The BackEnd , Create API Endpoint , Deploy THE API and ML Model
+   - **Contribution:** Handle the Backend, Contributing UI/UX, Handle Deploy into Google Cloud, Contributing of Project's Flowmap
 
 ### 6. [**Baharuidn Zaelani**](https://github.com/BaharudinZaelani) (A645BSY2383)
    - **Role:** Mobile Development (MD)
