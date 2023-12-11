@@ -33,7 +33,7 @@ Welcome to the official GitHub repository for the Bangkit Capstone Project at **
 ### 6. [**Baharuidn Zaelani**](https://github.com/BaharudinZaelani) (A645BSY2383)
    - **Role:** Mobile Development (MD)
    - **Bio:**  Mobile Development Cohort
-   - **Contribution:**
+   - **Contribution:** Consume Api, Connecting android UI to backend.
 
 ### 7. [**Jihaan Jasmine Jahroo**](https://github.com/JejeTrue) (A315BSX1977)
    - **Role:** Mobile Development (MD)
