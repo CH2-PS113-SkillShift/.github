@@ -1,7 +1,7 @@
 
 # 🚀 SkillShift
 Welcome to the official GitHub repository for the Bangkit Capstone Project at **[Skill Shift]**. We're a collaborative community of passionate individuals working on cutting-edge projects as part of the Bangkit program.<br><br>
-<img align="center" alt="logo" width="500" src="https://github.com/lowermoon/.github/blob/main/profile/22222.jpg">
+<img align="center" alt="logo" width="500" src="https://github.com/lowermoon/.github/blob/main/profile/image.jpg">
 
 ## 🌟 Meet Our Superstar Members
 
