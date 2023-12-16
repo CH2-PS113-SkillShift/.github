@@ -38,7 +38,7 @@ Welcome to the official GitHub repository for the Bangkit Capstone Project at **
 ### 7. [**Jihaan Jasmine Jahroo**](https://github.com/JejeTrue) (A315BSX1977)
    - **Role:** Mobile Development (MD)
    - **Bio:**  Mobile Development Cohort
-   - **Contribution:** Create mobile application layouts
+   - **Contribution:** Create mobile application layouts, Contributing UI/UX
 
 
 Note : ```Edit your Contribution```
