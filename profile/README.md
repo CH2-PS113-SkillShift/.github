@@ -30,7 +30,7 @@ Welcome to the official GitHub repository for the Bangkit Capstone Project at **
    - **Bio:**  Cloud Computing Cohort
    - **Contribution:** Handle the Backend, Contributing UI/UX, Handle Deploy into Google Cloud, Contributing of Project's Flowmap
 
-### 6. [**Baharuidn Zaelani**](https://github.com/BaharudinZaelani) (A645BSY2383)
+### 6. [**Baharudin Zaelani**](https://github.com/BaharudinZaelani) (A645BSY2383)
    - **Role:** Mobile Development (MD)
    - **Bio:**  Mobile Development Cohort
    - **Contribution:** Consume Api, Connecting android UI to backend.
